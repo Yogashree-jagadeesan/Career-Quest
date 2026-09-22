@@ -1,0 +1,7 @@
+{
+  "name": "Career Quest",
+  "description": "Personal career development & productivity dashboard tracking LeetCode, aptitude, tasks, notes, streaks, and XP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
